@@ -1,6 +1,6 @@
 # Hello-World
 
-Hello everyong!
+Hello everyone!
 
 This is my first time joing github for web-develop.
 
